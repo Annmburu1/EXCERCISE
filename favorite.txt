@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 chicken
 pilau
 fries
+=======
+amadeus
+The fifth Element
+Captian Fantasics
+>>>>>>> movies
