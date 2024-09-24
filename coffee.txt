@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 Iced and Cold Coffees
 Iced Coffee: Brewed coffee served over ice. It’s often sweetened and sometimes mixed with milk.
 Cold Brew: Coffee brewed slowly with cold water for 12-24 hours. It’s smoother and less acidic than regular iced coffee.
 Affogato: A dessert-style coffee where a shot of hot espresso is poured over vanilla ice cream.
+=======
+types of coffee
+Espresso: A strong, concentrated coffee made by forcing hot water through finely-ground coffee beans. It forms the base for many other coffee drinks.
+Americano: Made by diluting an espresso shot with hot water, giving it a similar strength but a different flavor from drip coffee.
+Drip Coffee (Regular Coffee): Brewed by dripping hot water over coffee grounds in a coffee maker or drip machine. It’s one of the most common ways to make coffee in the US.
+French Press: Coffee is steeped in hot water and then separated using a plunger. This method results in a rich, full-bodied flavor.
+Pour Over: Similar to drip coffee but manually brewed by pouring hot water over the coffee grounds in a slow, controlled manner.
+Milk-Based Coffees
+Cappuccino: Made with equal parts espresso, steamed milk, and milk foam. It’s typically served in a smaller cup than lattes.
+Latte: A shot of espresso with steamed milk and a small layer of foam on top. It’s creamier and milkier than a cappuccino.
+Flat White
+>>>>>>> bd581e6cde61b9aca7b441bb935623e254a71ff5
